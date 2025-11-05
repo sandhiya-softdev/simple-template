@@ -3,6 +3,49 @@
     padding:0;
     box-sizing: border-box;
 }
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: aqua;
+}
 .main{
+    width: 80%;
+    height: 100vh;
     display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px auto;
+    
+    
+}
+.para1{
+    width: 600px;
+    height: 200px;
+    background-color: aliceblue;
+    margin: 20px 30px;
+    padding: 20px 60px;
+}
+.para1 h4{
+    font-size: 30px;
+    margin-bottom: 20px;
+
+}
+.para1 p{
+    line-height: 1.8;
+    
+}
+.para2{
+    display: flex;
+    background-color: aliceblue;
+     margin: 20px 30px;
+     padding: 30px 50px;
+
+}
+.para3{
+     display: flex;
+     justify-content: center;
+   
+    background-color: aliceblue;
+     margin: 20px 30px;
+      padding: 10px 50px;
 }
