@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    width: 800px;
+    height:100vh;
+    margin: 0px auto;
+    background-color: aqua;
+}
+.on{
+    width: 400px;
+    background-color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.inside{
+    display: flex;
+    justify-content: center;
+
+}
+.img img{
+    width: 50px;
+}
