@@ -12,13 +12,14 @@
 .on{
     width: 400px;
     background-color: white;
-   display: flex;
-   justify-content: center;
-   align-items: center;
+    margin-top: 50px;
+   
 }
 .inside{
     display: flex;
     justify-content: center;
+    align-items: center;
+    margin-top: 50px;
 
 }
 .img img{
