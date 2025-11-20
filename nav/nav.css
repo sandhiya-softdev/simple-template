@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .navbar{
+    width: 100%;
+    height: 100px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-between; */
+/* }
+.on{ */
+    /* padding: 30px 20px;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 30px; */
+/* } */
+.navbar-items ul li{
+    display: inline-block;
+    margin-top: 30px;
+    margin-right: 30px;
+    padding: 10px 20px;
+    
+   
+} 
+.navbar-items ul li a{
+    text-decoration: none;
+}
+
+@media(max-width: 650px){
+
+   
+}
