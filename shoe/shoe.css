@@ -31,3 +31,54 @@ body{
 .third h5{
     font-size: 20px;
 }
+.main{
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+ 
+  
+}
+.on{
+    border: 2px solid transparent;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.on img{
+    width: 300px;
+}
+.on1{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.on1 h5{
+    font-size: 25px;
+
+}
+.view a{
+    text-decoration: none;
+    position: relative;
+    top: 30px;
+    right: 20px;
+    color:blue;
+    border: 2px solid blue;
+    padding: 2px 5px;
+}
+.para p{
+    margin-top: 20px;
+    padding: 2px 1px;
+
+}
+.btn h6{
+    text-align: center;
+    margin-top: 20px;
+    border: 2px solid blue;
+    padding: 8px 2px;
+    border-radius: 20px;
+    color:white;
+    background-color: blue;
+    font-size: 20px;
+    text-transform: capitalize;
+}
