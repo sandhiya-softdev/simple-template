@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
+.container{
+    width: 800px;
+    height: 100vh;
+    background-color: white;
+    margin: 0 auto;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blue;
+    height: 50px;
+    color:whitesmoke;
+}
+.first h4{
+    font-size: 20px;
+}
+.second h1{
+    letter-spacing: 2px;
+}
+.third h5{
+    font-size: 20px;
+}
